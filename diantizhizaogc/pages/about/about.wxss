@@ -1,0 +1,30 @@
+/* pages/user/dingdan.wxss */
+@import "../../wxParse/wxParse.wxss";
+.swiper-tab{  
+    width:100%;
+    background:#fff;
+    text-align:center;
+    line-height:80rpx;
+    top:-2rpx;
+    z-index:999;
+    /* height:80rpx; */
+}  
+.swiper-tab-list{  
+  font-size: 12px;  
+  display: inline-block;  
+  width: 25%;  
+  /* color: #666;   */
+}  
+.on{ 
+  color: #dd2727;  
+  border-bottom: 1rpx solid #dd2727;
+}  
+  
+.c_t60{
+    clear: both;
+}
+
+swiper {
+  display:block;
+  height:2085rpx;
+}
